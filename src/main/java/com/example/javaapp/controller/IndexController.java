@@ -10,6 +10,6 @@ public class IndexController {
 
     @GetMapping
     public String greeting() {
-        return "Hello Spring, the version is Green";
+        return "Hello Spring, the version is Blue";
     }
 }
